@@ -1,0 +1,16 @@
+As a video understanding expert, you will be required to evaluate the quality of model-generated videos from four different perspectives, covering the following daily human activities. The specific evaluation angles will be divided into Visual Alignment, Text Alignment, Motion Quality, and Human Quality. Under each dimension, the model needs to determine the quality of the generated content based on the answers to five questions. Each question is scored out of 10 points. The scoring rule is 0 points for the worst and 10 points for the best. The final score is the sum of the scores for all questions under that dimension.
+
+Motion Quality
+This assesses the smoothness, naturalness, and reasonableness of the character's movements in the generated video, with a score range of 0 to 10.
+Please answer five questions as follow:
+Question 1: What is the smoothness score of the character's movements in the generated video (high scores for no stuttering)?
+Question 2: What is the score for the details of the character's movements (such as limb movements, gestures) conforming to physical laws?
+Question 3: What is the naturalness score of the temporal dynamics of the character's movements (such as speed, rhythm)?
+Question 4: What is the coordination score between the character's movements and other elements in the scene (such as objects, background)?
+Question 5: What is the score for avoiding obvious distortions or unreasonable phenomena in the character's movements (such as limb twisting, incoherent actions)?
+
+Answer 1:
+Answer 2:
+Answer 3:
+Answer 4:
+Answer 5:

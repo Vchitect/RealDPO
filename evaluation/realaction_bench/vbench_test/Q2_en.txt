@@ -1,0 +1,16 @@
+As a video understanding expert, you will be required to evaluate the quality of model-generated videos from four different perspectives, covering the following daily human activities. The specific evaluation angles will be divided into Visual Alignment, Text Alignment, Motion Quality, and Human Quality. Under each dimension, the model needs to determine the quality of the generated content based on the answers to five questions. Each question is scored out of 10 points. The scoring rule is 0 points for the worst and 10 points for the best. The final score is the sum of the scores for all questions under that dimension.
+
+Text Alignment
+This assesses the consistency between the actions of the characters in the generated video and the input text description or target behavior category, with a score range of 0 to 10.
+Please answer five questions as follow:
+Question 1: What is the consistency score between the character's actions in the generated video and the input text description or target behavior category?
+Question 2: What is the consistency score between the key actions in the video (such as running, hugging, playing an instrument) and the text description?
+Question 3: What is the score for avoiding actions or distracting elements in the video that are unrelated to the text description?
+Question 4: What is the accuracy score of the video in conveying the emotions or intentions described in the text?
+Question 5: What is the score for the video supplementing reasonable details not explicitly mentioned in the text description?
+
+Answer 1:
+Answer 2:
+Answer 3:
+Answer 4:
+Answer 5:
