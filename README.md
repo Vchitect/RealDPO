@@ -36,6 +36,8 @@
     <img src="assets/demo.gif" alt="RealDPO Demo (click to play)">
   </a>
 </p>
+
+
 ## 🎬 Overview
 - We propose **RealDPO**, a novel training pipeline for action-centric video generation that leverages real-world data as preference signals to contrastively reveal and correct the model's inherent mistakes, addressing the limitations of existing reward models and preference alignment methods.
 - We design a tailored DPO loss for our video generation training objective, enabling efficient and effective preference alignment without the scalability and bias issues of prior approaches.
