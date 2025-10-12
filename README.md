@@ -6,11 +6,11 @@
     <a href='https://ziqihuangg.github.io/' target='_blank'>Ziqi Huang</a><sup>2†</sup>,&emsp;
     <a href='https://zhengdian1.github.io/' target='_blank'>Jianlou Si</a><sup>5</sup>,&emsp;
     <a href='https://scholar.google.com/citations?hl=zh-CN&user=kMui170AAAAJ' target='_blank'>Chenyang Si</a><sup>4</sup>,&emsp;
-    <a href='https://liuziwei7.github.io/' target='_blank'>Ziwei Liu</a><sup>2✉;</sup>&emsp;
+    <a href='https://liuziwei7.github.io/' target='_blank'>Ziwei Liu</a><sup>2✉︎;</sup>&emsp;
 </p>
 
 <p align="center">
-  (* Equal Contributions) &nbsp;&nbsp; († Project Lead) &nbsp;&nbsp; (✉ Corresponding Author)
+  (* Equal Contributions) &nbsp;&nbsp; († Project Lead) &nbsp;&nbsp; (✉︎ Corresponding Author)
 </p>
 <p align="center">
   <sup>1</sup> Shanghai Artificial Intelligence Laboratory &emsp;
@@ -19,6 +19,7 @@
   <sup>4</sup> Nanjing University &emsp;<br>
   <sup>5</sup> SenseTime Research
 </p>
+
 
 <p align="center">
   <a href="https://arxiv.org/abs/xxxxxx">
