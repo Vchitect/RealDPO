@@ -8,8 +8,6 @@
     <a href='https://chenyangsi.top/' target='_blank'>Chenyang Si</a><sup>4</sup>,&emsp;
     <a href='https://liuziwei7.github.io/' target='_blank'>Ziwei Liu</a><sup>2✉︎</sup>&emsp;
 </p>
-
-
 <p align="center">
   (* Equal Contributions) &nbsp;&nbsp; († Project Lead) &nbsp;&nbsp; (✉︎ Corresponding Author)
 </p>
@@ -27,7 +25,7 @@
   <a href="https://huggingface.co/datasets/Vchitect/RealDPO/">
     <img src="https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface" alt="Dataset">
   </a>
-  <a href="https://github.com/Vchitect/RealDPO-Project">
+  <a href="https://vchitect.github.io/RealDPO-Project/">
     <img src="https://img.shields.io/badge/Project&nbsp;Page-Website-lightgrey?logo=googlechrome" alt="Project Page">
   </a>
 </p>
@@ -36,6 +34,7 @@
     <img src="assets/demo.gif" alt="RealDPO Demo (click to play)">
   </a>
 </p>
+
 
 
 ## 🎬 Overview
