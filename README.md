@@ -30,7 +30,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/xxxxxxx">
+  <a href="https://www.youtube.com/watch?v=jvz5snFN0XA">
     <img src="assets/demo.gif" alt="RealDPO Demo (click to play)">
   </a>
 </p>
