@@ -19,8 +19,8 @@
   <sup>5</sup> SenseTime Research
 </p>
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxxxx">
-    <img src="https://img.shields.io/badge/Paper-arXiv%3A2506.21356-B31B1B?logo=arxiv" alt="Paper">
+  <a href="https://arxiv.org/abs/2510.14955">
+    <img src="https://img.shields.io/badge/arXiv-2510.14955-b31b1b.svg" alt="Paper">
   </a>
   <a href="https://huggingface.co/datasets/Vchitect/RealDPO/">
     <img src="https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface" alt="Dataset">
