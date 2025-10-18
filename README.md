@@ -65,7 +65,6 @@ pip install -r requirements.txt
 ## 🧠 Training
 
 Enter the `finetune` directory and run the training script.
-By default, the training uses **4 GPUs**.
 
 ```bash
 cd finetune
