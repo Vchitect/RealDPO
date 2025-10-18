@@ -99,23 +99,3 @@ By default, the demo dataset is used for quick testing.
 
 For actual training, replace it with the full dataset.
 
-### Combine split dataset files
-
-If your dataset is split into multiple parts:
-
-```bash
-cat RealDPO_part_* > largefile_restored.tar
-```
-
-Verify the merged file:
-
-```bash
-tar -tvf largefile_restored.tar
-```
-
-------
-
-## 📜 License
-
-This project is licensed under the [MIT License](https://chatgpt.com/c/LICENSE).
-
