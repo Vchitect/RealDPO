@@ -62,7 +62,7 @@ VALIDATION_ARGS=(
 	--gen_fps 8
 )
 
-DPO_ARG=(
+DPO_ARGS=(
 	--dpo_beta 1
 	--ema_rate 0.999
 )

@@ -281,8 +281,8 @@ class CogVideoXI2VRealDPOTrainer(CogVideoXI2VLoraTrainer):
             ref_win_loss = torch.mean((weights * (ref_win_latent_pred - win_latent) ** 2).reshape(batch_size, -1), dim=1)
             
             inside_term = win_loss - ref_win_loss
-            lose_loss = torch.mean((weights * (lose_latent_pred - lose_latent) ** 2).reshape(batch_size, -1), dim=1)
-            ref_lose_loss = torch.mean((weights * (ref_lose_latent_pred - lose_latent) ** 2).reshape(batch_size, -1), dim=1)
+            lose_loss = torch.mean((weights * (lose_latent_pred - lose_latent[n_idx]) ** 2).reshape(batch_size, -1), dim=1)
+            ref_lose_loss = torch.mean((weights * (ref_lose_latent_pred - lose_latent[n_idx]) ** 2).reshape(batch_size, -1), dim=1)
             inside_term-= (lose_loss-ref_lose_loss)
             beta_dpo = 5000
     
