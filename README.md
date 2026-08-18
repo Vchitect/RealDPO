@@ -104,13 +104,10 @@ For actual training, replace it with the full dataset.
 If you find our repo useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{guo2025realdpo,
-      title={RealDPO: Real or Not Real, that is the Preference}, 
-      author={Guo Cheng and Danni Yang and Ziqi Huang and Jianlou Si and Chenyang Si and Ziwei Liu},
-      year={2025},
-      eprint={2510.14955},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.14955},
+@article{cheng2025realdpo,
+  title={Realdpo: Real or not real, that is the preference},
+  author={Cheng, Guo and Yang, Danni and Huang, Ziqi and Si, Jianlou and Si, Chenyang and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2510.14955},
+  year={2025}
 }
 ```
